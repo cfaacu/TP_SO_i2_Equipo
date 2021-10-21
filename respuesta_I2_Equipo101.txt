@@ -1,0 +1,41 @@
+ALFA: Careri Facundo.
+BETA: Orce Patricio.
+GAMMA: Sibikousky Ian.
+
+
+Respuestas:
+a-Para actualizar mi repositorio al estado que esté el repo que hice fork tengo que ir a mi repositorio en GitHub, hacer click en Fetch upstream y despues hacer click en Fetch and merge y luego podemos  hacer un git pull para que nos descargue de forma local la o las actualizaciones.
+b-ALFA no puede actualizar su fork al estado del fork de GAMMA, unicamente puede actualizar su fork al estado del repositorio original que es el repositorio de BETA 
+c-GAMMA no puede actualizar su fork al estado del fork de ALFA porque ALFA no es el creador del repositorio forkeado
+d-No, si actualizo mi repositorio con los agregados del creador del repositorio, no pierdo las modificaciones que hice antes de hacer el git pull
+e- Patricio Orce (BETA)
+1-Crear una carpeta con el nombre del repositorio
+2- Abrir el git bash en la carpeta 
+3- Escribir el comando git init
+4- Creamos el archivo llamado fork.txt desde la pagina de Github
+5- Creamos en la carpeta del repositorio el archivo llamado NuevoDato.txt
+6- En el git bash escribimos el comando git add .
+7- En el git bash escribimos el comando git commit -m ""
+8- En el git bash escribimos el comando git push 
+Ian Sibikousky (GAMMA)
+1- Busco el repositorio en github y le hago un fork
+2- En el git bash escribo el comando git clone y pego el link de mi fork 
+3- Modifico el archivo fork.txt
+4-En el git bash escribimos el comando git add .
+5- En el git bash escribimos el comando git commit -m ""
+6- En el git bash escribimos el comando git push 
+7- voy a mi repositorio en github y hago click en Fetch upstream
+8- apreto el boton compare
+9-si hay algo para modificar hago click en Fetch and merge
+10- abro el git bash en la carpeta del repositorio y escribo el comando git pull 
+Facundo Careri (ALFA)
+1- Busco el repositorio en github y le hago un fork
+2- En el git bash escribo el comando git clone y pego el link de mi fork 
+3- Modifico el archivo fork.txt
+4-En el git bash escribimos el comando git add .
+5- En el git bash escribimos el comando git commit -m ""
+6- En el git bash escribimos el comando git push 
+7- voy a mi repositorio en github y hago click en Fetch upstream
+8- apreto el boton compare
+9-si hay algo para modificar hago click en Fetch and merge
+10- abro el git bash en la carpeta del repositorio y escribo el comando git pull 
